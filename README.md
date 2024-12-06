@@ -18,19 +18,33 @@ These boundaries are sourced from parlconst.org and from OSNI.
 - [1885 boundaries](https://github.com/ScottMoore0/ni-political-boundaries/tree/main/Westminster%20boundaries/1885-1918) (predating the existence of Northern Ireland)
 
 ### Local government boundaries
-Since 1973, council boundaries include Local Government Districts (LGDs), which represent the external boundary of each of the councils; District Electoral Areas (DEAs), which are multi-member districts which each elect numerous councillors via the single transferable vote system of proportional representation (STV-PR); and Electoral Wards, the basic building blocks of DEAs, LGDs and Parliamentary constituencies. 
+Since 1973, council boundaries include:
+- Local Government Districts (LGDs), which represent the external boundary of each of the councils;
+- District Electoral Areas (DEAs), which are multi-member districts which each elect numerous councillors via the single transferable vote system of proportional representation (STV-PR);
+- Electoral Wards, the basic building blocks of DEAs, LGDs and Parliamentary constituencies.
+
+Since 1973, councils have existed as a single tier of government - they are all unitary authorities. There were 26 councils from 1973 onwards, each centred on market towns with populations generally over 10,000. Prior to 2014, they had 583 Electoral Wards/Councillors, and 102 District Electoral Areas.
+
+In 2014, a new set of 11 councils was introduced. These had boundaries which were mostly the same as the previous councils they had been merged from, with some changes to the external boundaries. The 11 councils have 80 DEAs in total, and 462 Electoral Wards (corresponding to 462 Councillors). Belfast has 60 Councillors/Electoral Wards (and 10 DEAs; all other councils have 7 DEAs); while two councils, Newry, Mourne and Down, and Armagh City, Banbridge and Craigavon, have 41 Councillors/Electoral Wards, and the remaining 8 councils have 40 Councillors/Electoral Wards each. 
 
 All Parliamentary constituencies and DEAs are made up of a combination of Electoral Wards, such that the Electoral Wards nest exactly within them at the time the Parliamentary constituencies, DEAs are drawn. The number of councillors which represent a given DEA is based on the number of Electoral Wards contained within that DEA - e.g. if a DEA is made up of five Electoral Wards, then the DEA will have five councillors, elected by and representing the entire area of the DEA.
 
 The 2012 and 1993 boundaries are sourced from OSNI.
 
+Boundaries:
 - [2012 boundaries](https://github.com/ScottMoore0/ni-political-boundaries/tree/main/Local%20government%20boundaries/2014-) (used in the 2014, 2019 and 2023 local government elections, and whose Electoral Wards were used to build the 2023 Parliamentary constituencies; the set of boundaries which introduced the system of 11 councils)
 - [1993 boundaries](https://github.com/ScottMoore0/ni-political-boundaries/tree/main/Local%20government%20boundaries/1993-2014) (used in the 1993, 1997, 2001, 2005, and 2011 local government elections, and whose Electoral Wards were used to build the 1997 and 2008 Parliamentary constituencies)
 - 1985 boundaries (to do; used in the 1985 and 1989 local government elections)
 - 1973 boundaries (to do; used in the 1973, 1977 and 1981 local government elections; the set of boundaries which introduced the system of 26 councils)
 
-From 1923 until 1973, council boundaries comprised the Administrative Counties, meaning the six traditional counties of Antrim, Armagh, Down, Fermanagh, Londonderry* and Tyrone, plus the two county boroughs of Belfast and Londonderry* (centred on those cities and taking some territory from adjacent traditional counties), such that the traditional counties formed a top tier of local government and the county boroughs existed as unitary authorities combining upper- and lower-tier competences; Districts and Boroughs, meaning all urban districts, all rural districts and the two county boroughs, such that the urban and rural districts formed the lower tier of local government, with all urban and rural districts nesting exactly into the Administrative Counties; District Electoral Divisions, from which one or multiple councillors/aldermen were elected to urban districts, rural districts and county boroughs by First Past The Post or the bloc vote system, and which formed the building blocks of Parliament of Northern Ireland constituencies from 1929 onwards and of County Electoral Divisions; Electoral Wards, which were almost always coterminous with the boundaries of District Electoral Division besides a handful of exceptional cases; and County Electoral Divisions, made up of multiple District Electoral Divisions and serving as the unit from which county councillors were elected.
+From 1923 until 1973, council boundaries comprised:
+- the Administrative Counties, meaning the six traditional counties of Antrim, Armagh, Down, Fermanagh, Londonderry* and Tyrone, plus the two county boroughs of Belfast and Londonderry* (centred on those cities and taking some territory from adjacent traditional counties), such that the traditional counties formed a top tier of local government and the county boroughs existed as unitary authorities combining upper- and lower-tier competences;
+- Districts and Boroughs, meaning all urban districts, all rural districts and the two county boroughs, such that the urban and rural districts formed the lower tier of local government, with all urban and rural districts nesting exactly into the Administrative Counties;
+- District Electoral Divisions, from which one or multiple councillors/aldermen were elected to urban districts, rural districts and county boroughs by First Past The Post or the bloc vote system, and which formed the building blocks of Parliament of Northern Ireland constituencies from 1929 onwards and of County Electoral Divisions;
+- Electoral Wards, which were almost always coterminous with the boundaries of District Electoral Division besides a handful of exceptional cases;
+- County Electoral Divisions, made up of multiple District Electoral Divisions and serving as the unit from which county councillors were elected.
 
+Boundaries:
 - 1923 boundaries (to do)
 - Various set of boundaries in the interim with incremental, localised changes - ideally, I'd like to have a map for every set of boundaries that was used in an election or a by-election (to do)
 - The boundaries as they were immediately prior to the 1973 changes (to do)
@@ -45,6 +59,7 @@ From 1929 to 1969, a new set of single-member Commons constituencies, elected by
 
 In 1969, the QUB constituency was abolished and four extra Commons constituencies around Belfast were created in its place. The rest of the boundaries remained unchanged.
 
+Boundaries:
 - [1921 boundaries](https://github.com/ScottMoore0/ni-political-boundaries/tree/main/Parliament%20of%20Northern%20Ireland%20boundaries/1921-1929)
 - 1929 boundaries (to do)
 - 1969 boundaries (to do)
