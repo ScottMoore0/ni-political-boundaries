@@ -5,17 +5,21 @@ These boundaries are used in Westminster elections and for elections to Northern
 
 Note that these boundaries are the Westminster boundaries for Northern Ireland only, with no boundaries provided outside of Northern Ireland. In a couple of instances, there were changes made to boundaries in Britain, while the boundaries in Northern Ireland remained unchanged.
 
-These boundaries are sourced from parlconst.org and from OSNI.
+These boundaries are sourced from parlconst.org and from OSNI. The year of the boundaries (e.g. "2023 boundaries") denotes the year the boundaries were finalised by the relevant Boundary Commission.
 
-- [2023 boundaries](https://github.com/ScottMoore0/ni-political-boundaries/tree/main/Westminster%20boundaries/2023-) (used in the 2024 UK general election)
+- 2023 boundaries (used in the 2024 UK general election)
+  - [This repository](https://github.com/ScottMoore0/ni-political-boundaries/tree/main/Westminster%20boundaries/2023-)
+  - [Parlconst.org](https://www.parlconst.org/constituency-maps/northern-ireland/2024)
+  - [OSNI largescale boundaries](https://www.opendatani.gov.uk/@land-property/osni-open-data-largescale-boundaries-parliamentary-constituencies-2023)
+  - [_Final Recommendations - Report of the 2023 Review of Parliamentary Constituencies_](https://www.boundarycommission.org.uk/files/boundarycommission/2023-07/Final%20Recommendations%20Report%20of%20the%202023%20Review%20of%20Parliamentary%20Constituencies.PDF)
 - [2008 boundaries](https://github.com/ScottMoore0/ni-political-boundaries/tree/main/Westminster%20boundaries/2010-2023) (used in the 2010, 2015, 2017 and 2019 UK general elections; and in the 2011, 2016, 2017 and 2022 Assembly elections)
 - [1995 boundaries](https://github.com/ScottMoore0/ni-political-boundaries/tree/main/Westminster%20boundaries/1997-2010) (used in the 1997, 2001 and 2005 UK general elections; in the 1996 Northern Ireland Forum election; and in the 1998, 2003 and 2007 Assembly elections)
 - [1982 boundaries](https://github.com/ScottMoore0/ni-political-boundaries/tree/main/Westminster%20boundaries/1983-1997) (used in the 1983, 1987 and 1992 UK general elections)
 - [1970 boundaries](https://github.com/ScottMoore0/ni-political-boundaries/tree/main/Westminster%20boundaries/1974-1983) (used in the February 1974, October 1974, and 1979 UK general elections; in the 1973 and 1982 Assembly elections; and in the 1975 Northern Ireland Constitutional Convention election)
 - [1948 boundaries](https://github.com/ScottMoore0/ni-political-boundaries/tree/main/Westminster%20boundaries/1950-1974) (used in the 1950, 1951, 1955, 1959, 1964, 1966 and 1970 UK general elections)
 - [1920 boundaries](https://github.com/ScottMoore0/ni-political-boundaries/tree/main/Westminster%20boundaries/1922-1950) (used in the 1922, 1923, 1924, 1929, 1931, 1935 and 1945 UK general elections; and in the 1921 and 1925 Parliament of Northern Ireland election)
-- [1918 boundaries](https://github.com/ScottMoore0/ni-political-boundaries/tree/main/Westminster%20boundaries/1918-1922) (predating the existence of Northern Ireland)
-- [1885 boundaries](https://github.com/ScottMoore0/ni-political-boundaries/tree/main/Westminster%20boundaries/1885-1918) (predating the existence of Northern Ireland)
+- [1918 boundaries](https://github.com/ScottMoore0/ni-political-boundaries/tree/main/Westminster%20boundaries/1918-1922) (predating the existence of Northern Ireland; used in the 1918 UK general election only)
+- [1885 boundaries](https://github.com/ScottMoore0/ni-political-boundaries/tree/main/Westminster%20boundaries/1885-1918) (predating the existence of Northern Ireland; used in the 1885, 1886, 1892, 1895, 1900, 1906, Jan 1910, and Dec 1910 UK general elections) 
 
 ### Local government boundaries
 Since 1973, council boundaries include:
