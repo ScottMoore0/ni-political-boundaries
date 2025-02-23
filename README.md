@@ -1,4 +1,5 @@
 # Northern Ireland political boundaries
+# [See full directory here]((https://github.com/ScottMoore0/ni-political-boundaries/tree/main/directory)
 ## Collecting largescale vector maps of the political boundaries of Northern Ireland, at local, Stormont and Westminster level, now and historically.
 ### Westminster boundaries
 These boundaries are used in Westminster elections and for elections to Northern Ireland-wide bodies (in modern times, the Northern Ireland Assembly).
